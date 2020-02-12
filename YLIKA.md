@@ -22,7 +22,7 @@ A/A   | Περιγραφή   | Ποσότητα  | Τιμή / Τεμ. € | Σύ
 
 A/A   | Περιγραφή   | Ποσότητα  | Τιμή / Τεμ. € | Σύνολο €
 ------| ------------|-----------|---------------|----------
-1| [Arduino Nano compatible](https://grobotronics.com/nano-ch340-atmega328p-compatible-for-arduino-nano-v3.0.html) | 1  | 5.80  |  5.80
+1| [Arduino Mega compatible](https://grobotronics.com/funduino-mega2560-rev3-arduino-mega-compatible.html) | 1  | 19.90  | 19.90
 2| [Mini Robot Rover Chassis Kit - 4WD with DC Motors](https://grobotronics.com/mini-robot-rover-chassis-kit-4wd-with-dc-motors.html) | 1  | 18.90  |  18.90
 3 | [NRF24L01 RF Board (B)](https://grobotronics.com/nrf24l01-rf-board-b.html)  | 1 | 4.90 | 4.90
 4 | [GY-NEO6MV2 NEO-6M GPS Module ](https://www.aliexpress.com/item/32924842206.html?spm=a2g0s.9042311.0.0.5f014c4d069NoL)  | 1 | 3.24 | 3.24
@@ -32,9 +32,9 @@ A/A   | Περιγραφή   | Ποσότητα  | Τιμή / Τεμ. € | Σύ
 8 | [Solar Panel 2W 136x110mm](https://grobotronics.com/solar-panel-2w-136x110mm.html)  | 1  |  5.90 |  5.90 |   
 9 | [Power Bank](https://www.ibattery.gr/mobile-accessories/chargers/external/power-bank-intenso-2600-mah-black/) | 1  | 4.00  | 4.00
 10| Αντιστάσεις 1/4 W 220 Ω και 10ΚΩ  | 10  | 0.01  |  0.1
-  | **Σύνολο**  |  |  |  54€
+  | **Σύνολο**  |  |  |  70€
 
-##### Γενικό Σύνολο:  90€
+##### Γενικό Σύνολο:  105€
 
 
 [Επιστροφή στην Αρχική Σελίδα](README.md)
